@@ -1,2 +1,0 @@
-# listReact
-Created with CodeSandbox
